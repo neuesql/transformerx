@@ -7,7 +7,7 @@ An enterprise company requires a secure and compliant running environment for ea
 ## 1. Not only public Sass Solution
 The ideal solution should not be limited to deploying the Generative AI model solely in a shared and SaaS environment within a single geographic region. Instead, it should offer the flexibility to deploy the model in a private and customized network, as well as across various cloud providers. This would enable enterprises to choose the deployment environment that best suits their security, compliance, and cost requirements.
 ## 2. Multi-Cloud Agnostic Deployment
-n the complex enterprise IT environment, which often involves legacy platforms and multiple cloud providers, the solution should be capable of deploying the Generative AI model across various environments such as AWS, Azure, GCP, and K8S. Specifically, it should support deployment in Western European markets to cater to the regional needs and regulations.
+In the complex enterprise IT environment, which often involves legacy platforms and multiple cloud providers, the solution should be capable of deploying the Generative AI model across various environments such as AWS, Azure, GCP, and K8S. Specifically, it should support deployment in Western European markets to cater to the regional needs and regulations.
 ## 3. Full backend Compatibility API
 The server api need to be compatible with Huggingface Hub API  https://huggingface.co/docs/hub/api
 ## 4. Simple UI for Models, Datasets, Applications

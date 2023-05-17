@@ -21,9 +21,9 @@ A user-friendly and simple UI is required to facilitate developers in discoverin
 
 ![](docs/privatehub-deployment.drawio.svg)
 
-# Features in Details
+# Features
 ## Backend API
-Please download the full api list table [here](/docs/HuggingfaceAPI.xlsx) !!!
+Please download the full api list table [link here](/docs/HuggingfaceAPI.xlsx) !!!
 
 ![](docs/Prority.png)
 
